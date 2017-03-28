@@ -84,7 +84,6 @@ body {
     text-align: center ;
 }
 
-
 #main_video {
     float:left;
     width:1100px;
@@ -165,7 +164,7 @@ body {
 }
 
 #media_control {
-    position: absolute;
+    position: static;
     left: 8px;
     top: 650px;
     width:960px;
